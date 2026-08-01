@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# Local drafts
+drafts/
+*.local.md
